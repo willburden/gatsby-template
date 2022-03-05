@@ -1,0 +1,27 @@
+@use 'colours';
+
+html, body, #___gatsby, #gatsby-focus-wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background: white;
+    color: colours.$purple-darkest;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    text-decoration: underline;
+}
+
+/* Set link colour. */
+a, a:visited {
+    color: colours.$pink;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: colours.$pink-darker;
+}
