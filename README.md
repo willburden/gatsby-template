@@ -6,7 +6,7 @@
 <a href="https://github.com/willburden/[repo-name]/actions/workflows/gatsby-publish.yml"><img src="https://img.shields.io/github/workflow/status/willburden/[repo-name]/gatsby-publish/main?logo=gatsby"/></a>
 </p>
 
-This site is developed using [<img src="src/images/icon.png" style="width: 1em; height: 1em"/> Gatsby](https://www.gatsbyjs.com/). To get started follow these instructions:
+This site is developed using [<img src="gatsby.png" style="width: 1em; height: 1em"/> Gatsby](https://www.gatsbyjs.com/). To get started follow these instructions:
 
 1.  **Clone the site.**
 
